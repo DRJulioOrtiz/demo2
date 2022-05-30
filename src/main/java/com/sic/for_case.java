@@ -6,8 +6,8 @@ package com.sic;
  */
 public class for_case { 
     public static void main(String args[]){ 
-      int num = 10; 
-      if(num>5){ 
+      int num = 12; 
+      if(num>8){ 
          num+=2; 
       } 
       System.out.println(num); 
